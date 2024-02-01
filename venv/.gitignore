@@ -1,0 +1,14 @@
+# macOS 시스템 파일
+.DS_Store
+
+# Python 컴파일된 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# PyCharm 프로젝트 설정 폴더
+.idea/
